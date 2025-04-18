@@ -1,6 +1,8 @@
 # Tableau
 2025-Tableau-Bootcamp-27th
 
+아래는 태블로 코리아 공식에서 제공하는 태블로 부트캠프 실습 결과물입니다.
+
 태블로 부트캠프 1일차 (2025-04-18) 실습 결과물 
 - 
 https://public.tableau.com/shared/NRBMJMGM5?:display_count=n&:origin=viz_share_link
