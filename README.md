@@ -1,4 +1,4 @@
-# Tableau
+# Tableau 부트캠프 27기
 2025-Tableau-Bootcamp-27th
 
 아래는 태블로 코리아 공식에서 제공하는 태블로 부트캠프 실습 결과물입니다.
