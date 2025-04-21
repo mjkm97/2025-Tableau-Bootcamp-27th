@@ -21,3 +21,13 @@
 
 ![영양정보 대시보드](https://github.com/user-attachments/assets/9c6c5435-2136-49a9-93f7-5479d7ebd7e1)
 ![스타벅스 위치 대시보드](https://github.com/user-attachments/assets/9d858346-2be7-4f7e-8f44-a3e2a5620d40)
+
+## 추가 연습 - 서울시 스타벅스 매장 - 매장운영시간에 따른 위치 시각화
+ 매장 운영 평균보다 긴 경우와 평균보다 짧은 경우 색상으로 구분
+<img width="1295" alt="image" src="https://github.com/user-attachments/assets/8be14ac7-a062-406e-b8d4-bcdf56741c5d" />
+
+
+# 2일차 (2025-04-21) 실습 & 과제 결과물 
+## 스타벅스 음료 칼로리, 카페인 함유량에 따른 시각화 대시보드 
+<img width="999" alt="image" src="https://github.com/user-attachments/assets/054c58fd-a362-474c-bf93-9719d2117f78" />
+
