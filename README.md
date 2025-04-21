@@ -26,6 +26,8 @@
  매장 운영 평균보다 긴 경우와 평균보다 짧은 경우 색상으로 구분
 <img width="1295" alt="image" src="https://github.com/user-attachments/assets/8be14ac7-a062-406e-b8d4-bcdf56741c5d" />
 
+<img width="834" alt="image" src="https://github.com/user-attachments/assets/98bda9df-7765-4b3a-b9a4-4da5445a3273" />
+
 
 # 2일차 (2025-04-21) 실습 & 과제 결과물 
 ## 스타벅스 음료 칼로리, 카페인 함유량에 따른 시각화 대시보드 
