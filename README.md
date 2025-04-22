@@ -35,7 +35,7 @@
 <img width="999" alt="image" src="https://github.com/user-attachments/assets/054c58fd-a362-474c-bf93-9719d2117f78" />
 
 
-# 3일차 (2025-03-22) 
+# 3일차 (2025-03-22) 실습 & 과제 결과물 
 ## 스타벅스 카테고리별 영양정보 시각화 대시보드 (*매개변수: 당류, 카페인, 칼로리, 나트륨 중 선택 가능*)
 [대시보드 링크](https://public.tableau.com/views/TableauBootcamp3_17453339790620/sheet2?:language=ko-KR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
