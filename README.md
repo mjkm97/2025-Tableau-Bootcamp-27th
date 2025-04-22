@@ -24,12 +24,14 @@
 
 ## 추가 연습 - 서울시 스타벅스 매장 - 매장운영시간에 따른 위치 시각화
  매장 운영 평균보다 긴 경우와 평균보다 짧은 경우 색상으로 구분
-<img width="1295" alt="image" src="https://github.com/user-attachments/assets/8be14ac7-a062-406e-b8d4-bcdf56741c5d" />
-
-<img width="834" alt="image" src="https://github.com/user-attachments/assets/98bda9df-7765-4b3a-b9a4-4da5445a3273" />
-
+ 
+[대시보드 링크](https://public.tableau.com/views/TableauBootcamp_250422/sheet7?:language=ko-KR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![서울시 매장 시각화](https://github.com/user-attachments/assets/11a2ea46-d145-4b6c-8c59-9c1a83f8e64c)
 
 # 2일차 (2025-04-21) 실습 & 과제 결과물 
 ## 스타벅스 음료 칼로리, 카페인 함유량에 따른 시각화 대시보드 
+
+[대시보드 링크](https://public.tableau.com/views/TableauBootcamp2_250422/2?:language=koKR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 <img width="999" alt="image" src="https://github.com/user-attachments/assets/054c58fd-a362-474c-bf93-9719d2117f78" />
 
