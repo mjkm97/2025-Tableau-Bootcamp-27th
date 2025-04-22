@@ -1,4 +1,4 @@
-# Tableau 부트캠프 27기 (2025-Tableau-Bootcamp-27th)
+# 2025년 Tableau 부트캠프 27기 
 
 기간: 2025-04-18 ~ 2025-05-01
 
