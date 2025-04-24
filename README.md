@@ -31,17 +31,32 @@
 ## 스타벅스 음료 칼로리, 카페인 함유량에 따른 시각화 대시보드 
 
 [대시보드 링크](https://public.tableau.com/views/TableauBootcamp2_250422/2?:language=koKR&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 <img width="999" alt="image" src="https://github.com/user-attachments/assets/054c58fd-a362-474c-bf93-9719d2117f78" />
 
 
-# 3일차 (2025-03-22) 실습 & 과제 결과물 
+# 3일차 (2025-04-22) 실습 & 과제 결과물 
 ## 스타벅스 카테고리별 영양정보 시각화 대시보드 (*매개변수: 당류, 카페인, 칼로리, 나트륨 중 선택 가능*)
 
 [대시보드 링크](https://public.tableau.com/views/TableauBootcamp3_250422/sheet2?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - 대시보드 내 두 그래프 다 동적 필터 사용 가능 (매개변수, 계산된 필드 이용)
 - 상관관계 그래프: X축 , Y축 선택 가능
-  
 ![image](https://github.com/user-attachments/assets/415da28c-0570-4205-8872-9f73c235b837)
 
+# 4일차 (2025-04-23) 실습 & 과제 결과물 
+
+## [실습 결과물 응용] 매출차이 시각화 대시보드
+[대시보드 링크](https://public.tableau.com/views/TableauBootcamp4_17454547190070/5?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- 테이블 계산식을 이용
+![대시보드 5](https://github.com/user-attachments/assets/1e6362f5-077e-4c40-9480-24c11299bb43)
+
+## 빅맥 가격 변동 시각화
+- 데이터: big-mac-raw-index
+- Dolloar Price: "달러로 환산된 빅맥 가격"
+- Dollar Price를 이용해서 2000년도 대비 2020년도의 빅맥 가격이 국가별로 얼마나 상승했는지 비교
+빅맥 가격 상승 폭을 비교할 때 → 단순히 가격으로 비교하는 것이 아니라, 
+가격 상승 비율을 통해서 어느 나라의 빅맥 가격이 가장 큰 폭으로 상승했는 지 비교 
+(*예, A국가에서는 2000년도에는 500원이었던 빅맥이 → 1000원으로 올랐다면 100% 증가,
+B국가에서는 1600원이었던 빅맥이 → 2000원으로 올랐다면 25% 증가한 것*)
+
+<img width="1001" alt="image" src="https://github.com/user-attachments/assets/7c8997aa-01c6-47ac-af6c-8bae4d6a134a" />
 
