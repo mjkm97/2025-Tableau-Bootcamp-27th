@@ -60,3 +60,26 @@ B국가에서는 1600원이었던 빅맥이 → 2000원으로 올랐다면 25% �
 
 <img width="1001" alt="image" src="https://github.com/user-attachments/assets/7c8997aa-01c6-47ac-af6c-8bae4d6a134a" />
 
+# 5일차 (2025-04-24) 실습 & 과제 결과물
+
+## [실습 결과물 응용] 지하철 2호선 승/하차 승객수 - (데이터 기간: 2020년 03월 ~ 04월,총 6주)
+[대시보드 링크](https://public.tableau.com/views/TableauBootcamp5_250425/21?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+- 측정값 선택 버튼으로 대시보드 전체 필터링 가능
+
+
+![2호선 승_하차 시각화 대시보드 1](https://github.com/user-attachments/assets/8edb84f4-ff22-48c8-a76d-168d4d9c1766)
+
+## 시애틀에서 출발한 항공편의 취항지별 승객 수 
+
+- Makeline, Makepoint 함수 이용 
+
+<img width="1418" alt="image" src="https://github.com/user-attachments/assets/783f9042-7304-4811-b5a2-c01cb1b721a1" />
+
+
+## 내가 선택한 지역에 경쟁사 매장 분포: 전국 주유소 분포 시각화 
+[대시보드 링크](https://public.tableau.com/shared/CMBNFXHFS?:display_count=n&:origin=viz_share_link)
+
+- Buffer, Makepoint 함수 이용 
+
+![버퍼를 이용한 공간분석](https://github.com/user-attachments/assets/1e826719-d438-4aae-93c1-06da1d2288b6)
