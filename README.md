@@ -112,3 +112,4 @@ B국가에서는 1600원이었던 빅맥이 → 2000원으로 올랐다면 25% �
 
 <img width="1238" alt="image" src="https://github.com/user-attachments/assets/54b05678-b6f1-4e96-8d7b-fb742d5de3e5" />
 
+# 10일차 - Tableau Prep 에서 Union 및 Join 실습 - 이미지 없음
