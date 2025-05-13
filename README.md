@@ -1,9 +1,9 @@
 # 2025년 Tableau 부트캠프 27기 
 
-기간: 2025-04-18 ~ 2025-05-01
+기간: 2025-04-18 ~ 2025-05-07
 
 아래는 태블로 코리아 공식에서 제공하는 태블로 부트캠프 수업에 참석하여 만든 실습/과제 결과물입니다.
-매일 배운 것을 실습하고 공유할 예정입니다. 
+매일 배운 것을 실습하고 기록하였습니다.
 
 
 
@@ -78,8 +78,37 @@ B국가에서는 1600원이었던 빅맥이 → 2000원으로 올랐다면 25% �
 
 
 ## 내가 선택한 지역에 경쟁사 매장 분포: 전국 주유소 분포 시각화 
-[대시보드 링크](https://public.tableau.com/shared/CMBNFXHFS?:display_count=n&:origin=viz_share_link)
+[대시보드 링크](https://public.tableau.com/views/TableauBootcamp5_/sheet5?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 - Buffer, Makepoint 함수 이용 
 
 ![버퍼를 이용한 공간분석](https://github.com/user-attachments/assets/1e826719-d438-4aae-93c1-06da1d2288b6)
+
+# 7일차 (2025-04-25) 실습
+
+- 7일차에는 워터풀 차트, 간트차트, 도넛차트 등 다양한 시각화 학습
+![태블로 7일차](https://github.com/user-attachments/assets/377e437f-b725-4e3f-bae4-74e96d06b06f)
+
+
+# 8일차 (2025-05-07)실습
+
+## 지역별 매출 대시보드 (반응형 대시보드)
+
+[대시보드 링크](https://public.tableau.com/views/TableauBootcamp8__250507/SetAction?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+- 좌측의 지도로 지역별 매출 필터링 가능
+- 전체 매출 대비 선택한 지역의 매출 비율, 제품 중분류별 매출 비율 확인 가능
+  
+<img width="1311" alt="image" src="https://github.com/user-attachments/assets/2b720974-8bab-491e-8fc6-7404200792b3" />
+
+# 9일차 (2025-05-07) 실습
+
+## 매출 현황 분석 대시보드 (반응형 대시보드)
+
+[대시보드 링크](https://public.tableau.com/views/TableauBootcamp9_250507/sheet0?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+- 우측 상단의 카테고리 클릭 시 정보를 누르면, 제품 별 매출과 지역별 수익 현황 확인 가능
+- 좌측 필터를 통해 영업담당자(관리자) 별, 고객 세그먼트(기업고객, 소비자, 홈오피스), 제품 대분류(가구, 사무기기, 사무용품) 필터링하여 매출 트랜드, 판매수량, 수익, 평균할인율, 고객 주문건수 분포, 지역별 매출 확인 가능
+
+<img width="1238" alt="image" src="https://github.com/user-attachments/assets/54b05678-b6f1-4e96-8d7b-fb742d5de3e5" />
+
